@@ -1,1 +1,1 @@
-[Gravação de tela de 08-06-2024 21:14:06.webm](https://github.com/GabrielMbarbosa/Apple-Store/assets/109046409/69567e75-1a63-49a4-be51-3e61b12354bc)
+[Gravação de tela de 09-06-2024 01:36:37.webm](https://github.com/GabrielMbarbosa/Apple-Store/assets/109046409/40ba01e8-06f1-4bb6-abfb-44615b1b05aa)
