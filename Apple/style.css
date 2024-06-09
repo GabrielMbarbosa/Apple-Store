@@ -1,0 +1,12 @@
+#pro15{
+    background-image: url(../imagens/iphone-15-pro_overview__f8jz7aagka2q_og.png);
+    background-size: cover;
+    height: 36rem;
+}
+
+#ipadpro{
+    background-image: url(../imagens/Ipad__mdl3lpkglcia_large.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 36rem;
+}
