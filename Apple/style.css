@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Meow+Script&display=swap');
+
 #pro15{
     background-image: url(../imagens/iphone-15-pro_overview__f8jz7aagka2q_og.png);
     background-size: cover;
@@ -9,4 +11,54 @@
     background-repeat: no-repeat;
     background-position: center;
     height: 36rem;
+}
+
+#white15{
+    background-image: url(../imagens/promo_iphone15_announce__fmxxi8r9fkuy_medium.jpg);
+    background-size: cover;
+    background-position: bottom;
+    height: 36rem;
+}
+
+#smart{
+    background-image: url(../imagens/promo_apple_watch_series_9_order__b3u85rm9zf6u_medium.jpg);
+    background-size: cover;
+    background-position: bottom;
+    height: 36rem;   
+}
+
+#Mac{
+    background-image: url(../imagens/promo_macbook_air_m3__e43jegok3wuq_medium.jpg);
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 36rem;
+}
+
+#ipad{
+    background-image: url(../imagens/promo_ipadair__cu1bnxi7uuwm_medium.jpg);
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 36rem;
+}
+
+#smarts{
+    background-image: url(../imagens/promo_apple_watch_ultra2_order__dyxqj5ia98om_medium.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 36rem;
+}
+
+#airpods{
+    background-image: url(../imagens/promo_airpods_pro_order__d8xv36p4uwae_medium.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 36rem;
+}
+
+#cursive{
+    font-family: "Meow Script";
 }
